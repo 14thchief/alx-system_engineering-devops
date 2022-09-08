@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM='14.14'
+echo NUM=$NUM
