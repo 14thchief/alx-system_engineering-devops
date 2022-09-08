@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ("%.2g\n" $NUM)
+printf("%.2g\n" $NUM)
